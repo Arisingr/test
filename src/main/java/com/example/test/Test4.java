@@ -1,5 +1,4 @@
 package com.example.test;
 
-public class Test3 {
-
+public class Test4 {
 }
